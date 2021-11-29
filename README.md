@@ -17,6 +17,6 @@
     npm start или yarn start
 
 
-![top](https://github.com/IliaisaChamp/active-list-social/raw/main/top.jpg)
 
+![top](https://github.com/IliaisaChamp/active-list-social/raw/main/top.jpg)
 ![goals](https://github.com/IliaisaChamp/active-list-social/raw/main/goals.jpg)
